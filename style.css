@@ -1,0 +1,25 @@
+body {
+  background: #020617;
+  color: #e5e7eb;
+  font-family: Arial;
+  padding: 40px;
+  text-align: center;
+}
+
+.form input {
+  padding: 10px;
+  margin: 5px;
+}
+
+button {
+  padding: 10px;
+  background: #22c55e;
+  border: none;
+  cursor: pointer;
+}
+
+ul {
+  margin-top: 20px;
+  list-style: none;
+  padding: 0;
+}
